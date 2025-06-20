@@ -20,4 +20,4 @@ There are 3 folders in total, each containing:
 
 2. USE: The root folder contains index.html, the asset folder contains the style.css file, and the img folder contains the background image. In your work environment, such as Visual Studio Code, you can use several tools to view the HTML file, which has a button that allows interaction and message exchange. Extensions such as Live Server allow you to view the structure and style of the HTML, and you can also view it directly from the browser, depending on your preference.
 
-To use the JS language, you must have nodejs installed, recommended in a version greater than 18.0.
+To use the JS language, you must have nodejs installed, recommended in a version greater than 18.0
