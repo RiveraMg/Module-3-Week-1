@@ -1,4 +1,5 @@
-iMenssage sistema interactivo de mensaje es un programa hecho por mi que permite una interaccion con el usuario de recibir y mostrar mensajes de textos.
+#iMessage 
+sistema interactivo de mensaje es un programa hecho por mi que permite una interaccion con el usuario de recibir y mostrar mensajes de textos.
 
 Funcionamiento.
 1. realice la arquitectura de las carpetas, cree cada carpeta correspondiente a su archivo.
