@@ -1,4 +1,4 @@
-#iMessage 
+iMessage 
 sistema interactivo de mensaje es un programa hecho por mi que permite una interaccion con el usuario de recibir y mostrar mensajes de textos.
 
 Funcionamiento.
