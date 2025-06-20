@@ -32,7 +32,7 @@ Este es un proyecto que se basa en un sistema interactivo de mensaje es un progr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/moicanbas/Module-3-Week-1.git
+   git clone https://github.com/RiveraMg/Module-3-Week-1.git
    cd Module-3-Week-1
    ```
 ## Uso
