@@ -1,7 +1,7 @@
 function sistemaMensajes(){
 
     //impremir un mensaje de bienvenida al usuario
-    console.log('Bienvenido a I-MENSSAGE Tu sistema interactivo de mensaje de texto!');
+    console.log('Bienvenido a I-MESSAGE Tu sistema interactivo de mensaje de texto!');
 
     //recibir los datos que el usuario ingrese por medio de inputs
     let nombre = prompt('Hola! como te llamas?')
@@ -33,3 +33,4 @@ function sistemaMensajes(){
 
 
 }
+sistemaMensajes()
