@@ -24,10 +24,12 @@ h4{
     margin-top: -2rem;
 }
 
+/*justificacion del container en el centro de la pagina */
 div{
     display: flex;
     justify-content: center;
 }
+/*estilos para el botton */
 
 button{
     border: 1px solid #1E8CEE;
