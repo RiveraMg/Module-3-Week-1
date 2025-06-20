@@ -27,9 +27,9 @@ Este es un proyecto que se basa en un sistema interactivo de mensaje es un progr
 - nodejs: Entorno de ejecucion para lenguaje como js de codigo abierto
 - Visual Studio Code
 
-## Installation
+## Instalacion
 
-1. **Clone the repository:**
+1. **Clonar el repositorio:**
 
    ```bash
    git clone https://github.com/RiveraMg/Module-3-Week-1.git
