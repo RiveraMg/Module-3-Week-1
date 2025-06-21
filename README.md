@@ -25,7 +25,6 @@ Este es un proyecto que se basa en un sistema interactivo de mensaje es un progr
 
 ## Tecnologias usadas
 - nodejs: Entorno de ejecucion para lenguaje como js de codigo abierto
-- Visual Studio Code
 
 ## Instalacion
 
